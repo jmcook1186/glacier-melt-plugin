@@ -29,12 +29,12 @@
     "node": ">=18",
     "npm": ">=8"
   },
-  "homepage": "https://greensoftware.foundation",
+  "homepage": "https://github.com/jmcook1186/glacier-melt-plugin",
   "keywords": [],
   "license": "MIT",
   "main": "build/index.js",
   "repository": {
-    "url": "https://github.com/Green-Software-Foundation/if-plugin-template.git"
+    "url": "https://github.com/jmcook1186/glacier-melt-plugin"
   },
   "scripts": {
     "build": "npm run clean && tsc --project tsconfig.build.json",
