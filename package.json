@@ -1,13 +1,13 @@
 {
-  "name": "if-plugin-template",
-  "description": "Impact Framework plugins template.",
-  "version": "v0.1.0",
+  "name": "glacier-melt",
+  "description": "Impact Framework plugin for predicting ice melt.",
+  "version": "v0.0.1",
   "author": {
-    "name": "Green Software Foundation",
-    "email": "info@gsf.com"
+    "name": "joseph Cook",
+    "email": "hi_jmc@protonmail.com"
   },
   "bugs": {
-    "url": "https://github.com/Green-Software-Foundation/if-plugin-template/issues/new?assignees=&labels=feedback&projects=&template=feedback.md&title=Feedback+-+"
+    "url": "https://github.com/jmcook1186/glacier-melt-plugin"
   },
   "dependencies": {
     "typescript": "^5.1.6"
