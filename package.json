@@ -1,7 +1,7 @@
 {
   "name": "glacier-melt",
   "description": "Impact Framework plugin for predicting ice melt.",
-  "version": "v0.0.1",
+  "version": "v0.0.2",
   "author": {
     "name": "joseph Cook",
     "email": "hi_jmc@protonmail.com"
